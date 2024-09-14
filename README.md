@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+-->
 - 🔭 I’m currently working on getting through my College
 - 🌱 I’m currently learning C++23, Rust & Zig
 - 👯 I’m looking to collaborate on Back Dev, General Pourpose stuff
@@ -12,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Soon
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: IDK how to navigate here
--->
