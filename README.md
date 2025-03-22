@@ -17,5 +17,5 @@ Languages:
 
 Techs:
 <div style="display: flex" align=""center>
-  <img src="https://skillicons.dev/icons?i=vscode,ae,ai,arduino,figma,blender,pr,androidstudio,&perline=4&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vscode,ae,ai,arduino,figma,blender,pr,androidstudio,laravel&perline=4&theme=light" />
 </div>
