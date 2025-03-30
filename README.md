@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 
 Languages:
 <div style="display: flex" align=""center>
-  <img src="https://skillicons.dev/icons?i=cpp,django,javascript,python,kotlin,java,rust,mysql,typescript,html,css,jquery,react,nodejs,vue,bootstrap,mongodb,zig,lua,r&perline=4&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cpp,javascript,python,kotlin,java,rust,mysql,typescript,html,css,jquery,react,nodejs,vue,bootstrap,php,mongodb,zig,lua,r,tailwind,vite&perline=5&theme=light" />
 </div>
 
 Techs:
 <div style="display: flex" align=""center>
-  <img src="https://skillicons.dev/icons?i=vscode,ae,ai,arduino,figma,blender,pr,androidstudio,laravel&perline=4&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vscode,ae,ai,arduino,figma,blender,pr,androidstudio,laravel,django&perline=5&theme=light" />
 </div>
